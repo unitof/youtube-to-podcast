@@ -1,0 +1,11 @@
+{
+  "name": "youtube-to-podcast",
+  "version": "1.0.0",
+  "description": "Serve any YouTube channel as a podcast RSS feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Ford <j@cobford.com>",
+  "license": "ISC"
+}
